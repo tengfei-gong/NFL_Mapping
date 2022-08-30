@@ -1,0 +1,331 @@
+Stat,Code,descr
+ActionType,1,Pass
+ActionType,2,Catch
+ActionType,3,Drop
+ActionType,4,Carry
+ActionType,5,Kickoff
+ActionType,6,Field Goal
+ActionType,7,Punt
+ActionType,8,Extra Point Kick
+ActionType,9,Two Point Conversion Run
+ActionType,10,Two Point Conversion Pass
+ActionType,11,Return
+ActionType,12,Defend
+ActionType,13,Incomplete Target
+BackFormation,1,Empty Back
+BackFormation,2,Split Backs
+BackFormation,3,I Formation
+BackFormation,4,xOffset I - Deprecated
+BackFormation,5,Full House
+BackFormation,6,xTE Flex Wing - Deprecated
+BackFormation,7,Single Back
+BackFormation,8,Other
+BackFormation,9,Fake Field Goal
+BackFormation,10,Fake Punt
+BackFormation,11,Pistol
+BackFormation,12,xWildcat - Deprecated
+BackFormation,13,xPistol 2-Back - Deprecated
+BackFormation,14,Pistol 3-Back
+BackFormation,15,xTE Flex Wing 2-Back - Deprecated
+BackFormation,16,Aborted Field Goal
+BackFormation,17,Aborted Punt
+BackFormation,18,Wing Right
+BackFormation,19,Wing Left
+BackFormation,20,Double Wing
+BackFormation,21,Gun Offset Left
+BackFormation,22,Gun Offset Right
+BackFormation,23,Offset I Left
+BackFormation,24,Offset I Right
+BackFormation,25,Pistol 2-Back Left
+BackFormation,26,Pistol 2-Back Right
+BackFormation,27,Go-Go
+BackFormation,28,RB Left - Sniffer Left
+BackFormation,29,RB Left - Sniffer Right
+BackFormation,30,RB Right - Sniffer Left
+BackFormation,31,RB Right - Sniffer Right
+BackFormation,32,Wildcat Empty
+BackFormation,33,Wildcat 1-Back Left
+BackFormation,34,Wildcat 1-Back Right
+BackFormation,35,Wildcat 2-Back
+BackFormation,36,Wildcat 3-Back
+BlockingSchemeType,1,Pull Outside Numbers
+BlockingSchemeType,2,Zone
+BlockingSchemeType,3,Pass Protection
+BlockingSchemeType,4,Blitz Coverage
+BlockingSchemeType,5,Extra Lineman
+BlockingSchemeType,6,Pull Guard
+BlockingSchemeType,7,Screen
+BlockingSchemeType,8,Slide Left
+BlockingSchemeType,9,Slide Right
+BlockingSchemeType,10,Pull 2
+BlockingSchemeType,11,Pull Across
+BlockingSchemeType,12,Pull Front
+BlockingSchemeType,13,False Pull
+BlockingSchemeType,14,Wham
+BlockingSchemeType,15,Cut Blocking
+BlockingSchemeType,16,Split Zone
+BlockingSchemeType,17,Duo
+BroadcastType,0,Unkown
+BroadcastType,1,All-22
+BroadcastType,2,Live Broadcast
+BroadcastType,3,ESPN3 Replay
+BroadcastType,4,Other Replay
+ChallengeType,1,Pass Complete
+ChallengeType,2,Pass Incomplete
+ChallengeType,3,Interception
+ChallengeType,4,Runner In Bounds
+ChallengeType,5,Reciever In Bounds
+ChallengeType,6,Recovery Of Loose Ball
+ChallengeType,7,Touchback
+ChallengeType,8,Fumble By QB
+ChallengeType,9,Forward Pass
+ChallengeType,10,Pass Direction
+ChallengeType,11,Pass Beyond Line Of Scrimmage
+ChallengeType,12,Runner Down By Contact
+ChallengeType,13,Position Of Ball
+ChallengeType,14,Kick Touched By Player
+ChallengeType,15,Field Goal
+ChallengeType,16,Number Of Players
+ChallengeType,17,Illegal Forward Handoff
+ChallengeType,18,Ball Hits Foreign Object
+ChallengeType,19,Other
+ChallengeType,20,Scoring Play
+ChallengeType,21,Pass Interference
+CoverageType,1,Cover 0
+CoverageType,2,Cover 1
+CoverageType,3,Cover 2
+CoverageType,4,Man Cover 2
+CoverageType,5,Cover 3
+CoverageType,6,Cover 4
+CoverageType,7,Cover 6
+CoverageType,8,Combination/Other
+CoverageType,9,Screen
+CoverageType,10,No Video
+CoverageType,11,Tampa 2
+CoverageType,12,Prevent
+CoverageType,13,Spike
+CoverageType,14,Combination
+CoverageType,15,Other
+DefensivePenaltyType,1,Encroachment
+DefensivePenaltyType,2,Pass Interference
+DefensivePenaltyType,3,Illegal Use Of Hands
+DefensivePenaltyType,4,Neutral Zone Infraction
+DefensivePenaltyType,5,Roughing The Passer
+DefensivePenaltyType,6,Roughing The Kicker
+DefensivePenaltyType,7,Running Into The Kicker
+DefensivePenaltyType,8,Unnecessary Roughness
+DefensivePenaltyType,9,Flagrant Facemask
+DefensivePenaltyType,10,Unsportsmanlike Conduct
+DefensivePenaltyType,11,Illegal Substitution
+DefensivePenaltyType,12,Too Many Players
+DefensivePenaltyType,13,Tripping
+DefensivePenaltyType,14,Illegal Return
+DefensivePenaltyType,15,Invalid Fair Catch
+DefensivePenaltyType,16,Change Of Eligibility
+DefensivePenaltyType,17,Player Out Of Bounds Punt
+DefensivePenaltyType,18,Batting Loose Ball
+DefensivePenaltyType,19,Block In Back
+DefensivePenaltyType,20,Kicking Loose Ball
+DefensivePenaltyType,21,Leading With Helmet
+DefensivePenaltyType,22,Leaping/Leverage
+DefensivePenaltyType,23,Taunting
+DefensivePenaltyType,24,Helmet Removed
+DefensivePenaltyType,25,Striking (Roughness)
+DefensivePenaltyType,26,Horse Collar
+DefensivePenaltyType,27,Offside
+DefensivePenaltyType,28,Holding
+DefensivePenaltyType,29,Clipping
+DefensivePenaltyType,30,Illegal Forward Pass
+DefensivePenaltyType,31,Tandem Block
+DefensivePenaltyType,32,Kick Catch Interference
+DefensivePenaltyType,33,Piling On
+DefensivePenaltyType,34,Chop Block
+DefensivePenaltyType,35,Illegal Block
+DefensivePenaltyType,36,Illegal Contact
+DefensivePenaltyType,37,Illegal Formation
+DefensivePenaltyType,38,Fair Catch Interference
+DefensivePenaltyType,39,Delay of Game
+DefensivePenaltyType,40,Equipment Violation
+DefensivePenaltyType,41,Sideline Infraction
+DefensivePenaltyType,42,Targeting
+DefensivePenaltyType,43,Leg Whip
+DefensivePenaltyType,44,Roughing The Snapper
+DefPuntFormType,1,Normal
+DefPuntFormType,2,Max Protect
+DefPuntFormType,3,Spread
+DefPuntFormType,4,Other
+DropType,1,0/1 Step
+DropType,2,3 Step
+DropType,3,5 Step
+DropType,4,7 Step
+DropType,5,Designed Rollout Left
+DropType,6,Designed Rollout Right
+DropType,7,Spike
+DropType,8,RPO
+DropType,9,RPO Move
+DropType,10,Basic Screen
+DropType,11,Other
+DropType,12,RB/WR Pass
+DropType,13,WR Reverse Pass
+DropType,14,Double Reverse Pass
+DropType,15,Flea Flicker
+QBAtPass,1,Planted
+QBAtPass,2,Moving
+QBAtPass,3,Shuffling
+ScoringType,1,Field Goal
+ScoringType,2,Extra Point
+ScoringType,3,Safety
+ScoringType,4,Two-Point Conversion
+ScoringType,5,Extra Point Return
+ScoringType,6,Extra Point Return
+ThrowType,1,Normal
+ThrowType,2,Shovel
+ThrowType,3,Touch
+ThrowType,4,Hail Mary
+ThrowType,5,Flea Flicker
+ThrowType,6,Level 1
+ThrowType,7,Level 2
+ThrowType,8,Level 3
+ThrowType,9,Sidearm
+ThrowDirection,1,Deep Middle
+ThrowDirection,2,Deep Right Outside
+ThrowDirection,3,Short Left Outside
+ThrowDirection,4,Short Middle
+ThrowDirection,5,Short Right Outside
+ThrowDirection,6,Deep Left Outside
+ThrowDirection,7,Deep Left Middle
+ThrowDirection,8,Deep Right Middle
+ThrowDirection,9,Short Left Middle
+ThrowDirection,10,Short Right Middle
+ThrowAccuracy,1,Overthrown
+ThrowAccuracy,2,Underthrown
+ThrowAccuracy,3,Behind
+ThrowAccuracy,4,In Front
+ThrowAccuracy,5,Uncatchable due to Hit
+ThrowAccuracy,6,Receiver at Fault
+TargetLinedUp,1,RB
+TargetLinedUp,2,Wide
+TargetLinedUp,3,Slot
+TargetLinedUp,4,TE
+TargetLinedUp,5,OL
+TargetLinedUp,6,QB
+RunType,1,Pitch
+RunType,2,Reverse
+RunType,3,Inside Zone
+RunType,4,Counter
+RunType,5,Outside Zone
+RunType,6,Zone Read Handoff
+RunType,7,Trap
+RunType,8,QB Design
+RunType,9,Scramble - Pressure
+RunType,10,Direct Snap
+RunType,11,Fake Field Goal
+RunType,12,Fake Punt
+RunType,13,Draw
+RunType,14,QB Kneel
+RunType,15,End Around
+RunType,16,Backwards Pass
+RunType,17,Scramble - Coverage
+RunType,18,QB Sneak
+RunType,19,QB Draw
+RunType,20,Scramble - Open Run Lane
+RunType,21,Option Keep
+RunType,22,Stretch
+RunType,23,Broken Play
+RunType,24,Option Pitch
+RunType,25,Triple Option Give
+RunType,26,Triple Option Keep
+RunType,27,Triple Option Pitch
+RunType,28,Jet Sweep
+RunType,29,FB Dive
+RunType,30,Lead
+RunType,31,Power
+RunType,32,Zone Read Keeper
+RunType,33,Sweep
+RunType,34,Zone-Counter
+RunType,35,Duo
+RunType,36,Wham
+RunDirection,1,Left A Gap
+RunDirection,2,Right D Gap
+RunDirection,3,Right A Gap
+RunDirection,4,Middle
+RunDirection,5,Left D Gap
+RunDirection,6,Left Off-Tackle Gap Unknown
+RunDirection,7,Right Off-Tackle Gap Unknown
+RunDirection,8,Left Off-Tackle B Gap
+RunDirection,9,Right Off-Tackle B Gap
+RunDirection,10,Left Off-Tackle C Gap
+RunDirection,11,Right Off-Tackle C Gap
+TargetTypes,1,xFlat - Deprecated
+TargetTypes,2,Slant
+TargetTypes,3,Comeback
+TargetTypes,4,Curl
+TargetTypes,5,Out
+TargetTypes,6,Dig
+TargetTypes,7,Corner
+TargetTypes,8,Post
+TargetTypes,9,Fade
+TargetTypes,10,xScreen - Deprecated
+TargetTypes,11,Wheel
+TargetTypes,12,Broken Play
+TargetTypes,13,Drag
+TargetTypes,14,Double Move
+TargetTypes,15,xSwing - Deprecated
+TargetTypes,16,Angle
+TargetTypes,17,Seam
+TargetTypes,18,Quick
+TargetTypes,19,Go/Fly
+TargetTypes,20,Sluggo
+TargetTypes,21,Hitch & Go
+TargetTypes,22,Post Corner
+TargetTypes,23,Corner Post
+TargetTypes,24,Out & Up
+TargetTypes,25,No Video
+TargetTypes,26,Whip
+TargetTypes,27,Chip
+TargetTypes,28,Check & Release
+TargetTypes,29,Fade - Back Shoulder
+TargetTypes,30,Beneath
+TargetTypes,31,Chip - Curl
+TargetTypes,32,Chip - Flat
+TargetTypes,33,Chip - Seam
+TargetTypes,34,Jet Sweep Pass
+TargetTypes,35,Deep Cross
+TargetTypes,36,Stick - Nod
+TargetTypes,37,Blocking
+TargetTypes,38,Chip - Drag
+TargetTypes,39,Over Ball
+TargetTypes,40,Pick
+TargetTypes,41,Run Fake
+TargetTypes,42,Jerk
+TargetTypes,43,Leak
+TargetTypes,44,Swing - Left
+TargetTypes,45,Swing - Right
+TargetTypes,46,Flat - Left
+TargetTypes,47,Flat - Right
+TargetTypes,48,Screen - RB
+TargetTypes,49,Screen - Quick
+TargetTypes,50,Screen - Tunnel
+TargetTypes,51,Screen - Bubble
+TargetTypes,52,Screen - Drag
+TargetTypes,53,Screen - TE
+TargetTypes,54,Screen - Beneath
+TargetTypes,55,Screen - Shovel
+blockingSchemeType,1,Pull Outside Numbers
+blockingSchemeType,2,Zone
+blockingSchemeType,3,Pass Protection
+blockingSchemeType,4,Blitz Coverage
+blockingSchemeType,5,Extra Lineman
+blockingSchemeType,6,Pull Guard
+blockingSchemeType,7,Screen
+blockingSchemeType,8,Slide Left
+blockingSchemeType,9,Slide Right
+blockingSchemeType,10,Pull 2
+blockingSchemeType,11,Pull Across
+blockingSchemeType,12,Pull Front
+blockingSchemeType,13,False Pull
+blockingSchemeType,14,Wham
+blockingSchemeType,15,Cut Blocking
+blockingSchemeType,16,Split Zone
+blockingSchemeType,17,Duo
+blockingSchemeType,18,No Video
